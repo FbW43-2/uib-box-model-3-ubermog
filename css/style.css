@@ -1,0 +1,24 @@
+header,
+main {
+  max-width: 1060px;
+  padding: 80px;
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: bisque;
+  border-left: 2px solid brown;
+}
+
+section > div > img {
+  width: 353px;
+}
+
+section > div {
+  float: left;
+}
